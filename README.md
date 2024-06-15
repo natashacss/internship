@@ -7,10 +7,8 @@ University: Bandung Institute of Technology (ITB)
 
 Department: STEI - Telecommunication Engineering
 
-GPA: 3.00
-
 Intern: UniXecure/SYSTEX
 
-Topic: Industrial Company: Blue Team, Lab: TBA
+Topic: Industrial Company: Blue Team, Lab: OSC Near/Non-RT RIC
 
 Duration: 2 months (23 June 2024 - 22 August 2024)
